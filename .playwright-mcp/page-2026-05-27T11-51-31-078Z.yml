@@ -1,0 +1,67 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e57]: Create a user profile card with an avatar, name, title, bio, and social links
+            - img [ref=e60]
+          - generic [ref=e76]:
+            - img [ref=e79]
+            - generic [ref=e84]:
+              - generic [ref=e87]: Creating App.jsx
+              - separator [ref=e88]
+              - generic [ref=e89]:
+                - paragraph [ref=e90]: "Done! I've created a polished user profile card with:"
+                - list [ref=e91]:
+                  - listitem [ref=e92]:
+                    - strong [ref=e93]: Avatar
+                    - text: ": Centered profile image with a border and shadow"
+                  - listitem [ref=e94]:
+                    - strong [ref=e95]: Name & Title
+                    - text: ": \"Sarah Anderson\" with \"Product Designer\" subtitle"
+                  - listitem [ref=e96]:
+                    - strong [ref=e97]: Bio
+                    - text: ": A brief, realistic description"
+                  - listitem [ref=e98]:
+                    - strong [ref=e99]: Social Links
+                    - text: ": Twitter, LinkedIn, GitHub, and Instagram icons with hover effects"
+                  - listitem [ref=e100]:
+                    - strong [ref=e101]: Design
+                    - text: ": Gradient header, clean layout, smooth transitions, and a modern color scheme"
+                - paragraph [ref=e102]: The card is centered on a dark gradient background and fully responsive.
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [selected] [ref=e32]
+          - tab "Code" [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - iframe [ref=e103]:
+        - generic [ref=f6e6]:
+          - img "Avatar" [ref=f6e8]
+          - generic [ref=f6e9]:
+            - heading "Sarah Anderson" [level=2] [ref=f6e10]
+            - paragraph [ref=f6e11]: Product Designer
+            - paragraph [ref=f6e12]: Passionate about creating beautiful and intuitive digital experiences. Coffee enthusiast and design advocate.
+          - generic [ref=f6e13]:
+            - link "Twitter" [ref=f6e14] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=f6e15]
+            - link "LinkedIn" [ref=f6e17] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=f6e18]
+            - link "GitHub" [ref=f6e21] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=f6e22]
+            - link "Instagram" [ref=f6e24] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=f6e25]
+  - alert [ref=e47]

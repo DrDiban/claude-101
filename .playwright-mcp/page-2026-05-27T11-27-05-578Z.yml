@@ -1,0 +1,114 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e57]: Create a user profile card with an avatar, name, title, bio, and social links
+            - img [ref=e60]
+          - generic [ref=e80]:
+            - img [ref=e83]
+            - generic [ref=e88]:
+              - generic [ref=e91]: Creating App.jsx
+              - separator [ref=e92]
+              - generic [ref=e93]:
+                - paragraph [ref=e94]: "Done! I've created a user profile card with:"
+                - list [ref=e95]:
+                  - listitem [ref=e96]: Avatar image with border and shadow
+                  - listitem [ref=e97]: Name and title
+                  - listitem [ref=e98]: Bio section
+                  - listitem [ref=e99]: Social media links (Twitter, LinkedIn, GitHub, Email) with hover effects
+                  - listitem [ref=e100]: Action button
+                  - listitem [ref=e101]: Gradient header background
+                  - listitem [ref=e102]: Responsive design with Tailwind CSS
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [ref=e32]
+          - tab "Code" [active] [selected] [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - generic [ref=e103]:
+        - generic [ref=e111] [cursor=pointer]:
+          - img [ref=e112]
+          - generic [ref=e117]: App.jsx
+        - separator [ref=e118]
+        - code [ref=e123]:
+          - generic [ref=e124]:
+            - generic [ref=e126]:
+              - generic [ref=e129]: "1"
+              - generic [ref=e131]: "2"
+              - generic [ref=e134]: "3"
+              - generic [ref=e135]:
+                - generic [ref=e136] [cursor=pointer]: 
+                - generic [ref=e137]: "4"
+              - generic [ref=e138]:
+                - generic [ref=e139] [cursor=pointer]: 
+                - generic [ref=e140]: "5"
+              - generic [ref=e141]:
+                - generic [ref=e142] [cursor=pointer]: 
+                - generic [ref=e143]: "6"
+              - generic [ref=e146]:
+                - generic [ref=e147] [cursor=pointer]: 
+                - generic [ref=e148]: "7"
+              - generic [ref=e151]: "8"
+              - generic [ref=e153]: "9"
+              - generic [ref=e156]: "10"
+              - generic [ref=e158]: "11"
+              - generic [ref=e159]:
+                - generic [ref=e160] [cursor=pointer]: 
+                - generic [ref=e161]: "12"
+              - generic [ref=e163]: "13"
+              - generic [ref=e164]:
+                - generic [ref=e165] [cursor=pointer]: 
+                - generic [ref=e166]: "14"
+              - generic [ref=e168]:
+                - generic [ref=e169] [cursor=pointer]: 
+                - generic [ref=e170]: "15"
+              - generic [ref=e172]: "16"
+              - generic [ref=e177]: "17"
+              - generic [ref=e179]: "18"
+              - generic [ref=e183]: "19"
+              - generic [ref=e185]: "20"
+            - generic [ref=e344]:
+              - generic [ref=e346]: import React from 'react';
+              - generic [ref=e348]: "import { Github, Linkedin, Twitter, Mail } from"
+              - generic [ref=e350]: "'lucide-react';"
+              - generic [ref=e353]: "export default function App() {"
+              - generic [ref=e355]: return (
+              - generic [ref=e357]: <div className="min-h-screen bg-gradient-to-br
+              - generic [ref=e359]: from-slate-900 to-slate-800 flex items-center
+              - generic [ref=e361]: justify-center p-4">
+              - generic [ref=e363]: <div className="bg-white rounded-lg shadow-2xl
+              - generic [ref=e365]: overflow-hidden max-w-sm w-full">
+              - generic [ref=e367]: "{/* Header Background */}"
+              - generic [ref=e369]: <div className="h-32 bg-gradient-to-r
+              - generic [ref=e371]: from-blue-500 to-purple-600"></div>
+              - generic [ref=e374]: "{/* Profile Content */}"
+              - generic [ref=e376]: <div className="px-6 pb-6">
+              - generic [ref=e378]: "{/* Avatar */}"
+              - generic [ref=e380]: <div className="flex justify-center -mt-16
+              - generic [ref=e382]: mb-4">
+              - generic [ref=e384]: <img
+              - generic [ref=e386]: src="https://images.unsplash.com/
+              - generic [ref=e388]: photo-1472099645785-5658abf4ff4e?
+              - generic [ref=e390]: ixlib=rb-1.2.1&auto=format&fit=facearea&
+              - generic [ref=e392]: facepad=2&w=256&h=256&q=80"
+              - generic [ref=e394]: alt="Avatar"
+              - generic [ref=e396]: className="w-32 h-32 rounded-full
+              - generic [ref=e398]: border-4 border-white shadow-lg
+              - generic [ref=e400]: object-cover"
+              - generic [ref=e402]: />
+              - generic [ref=e404]: </div>
+            - textbox "Editor content" [ref=e406]
+  - alert [ref=e47]
+  - generic [ref=e407]:
+    - alert
+    - alert
